@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		520D9B252C23038400E17386 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 520D9B242C23037E00E17386 /* README.md */; };
 		52D723542C209EBA006B9ED8 /* Code_HistoryApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D723532C209EBA006B9ED8 /* Code_HistoryApp.swift */; };
 		52D723562C209EBA006B9ED8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D723552C209EBA006B9ED8 /* ContentView.swift */; };
 		52D723582C209EBC006B9ED8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52D723572C209EBC006B9ED8 /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		520D9B242C23037E00E17386 /* README.md */ = {isa = PBXFileReference; explicitFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		52D723502C209EBA006B9ED8 /* Code History.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Code History.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		52D723532C209EBA006B9ED8 /* Code_HistoryApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Code_HistoryApp.swift; sourceTree = "<group>"; };
 		52D723552C209EBA006B9ED8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -95,6 +97,7 @@
 			isa = PBXGroup;
 			children = (
 				52D723532C209EBA006B9ED8 /* Code_HistoryApp.swift */,
+				520D9B242C23037E00E17386 /* README.md */,
 				52D723552C209EBA006B9ED8 /* ContentView.swift */,
 				52D723572C209EBC006B9ED8 /* Assets.xcassets */,
 				52D723592C209EBC006B9ED8 /* Preview Content */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				520D9B252C23038400E17386 /* README.md in Resources */,
 				52D7235B2C209EBC006B9ED8 /* Preview Assets.xcassets in Resources */,
 				52D723582C209EBC006B9ED8 /* Assets.xcassets in Resources */,
 			);
